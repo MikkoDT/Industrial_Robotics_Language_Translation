@@ -1,0 +1,31 @@
+﻿English,Taglish,Tagalog,Japanese_Technical,Romaji_Technical,Japanese_Common,Romaji_Common
+Joint,Joint,Dugtungan,関節 (かんせつ),kansetsu,ジョイント ,jointo
+Link,Link,Koneksyon,リンク,rinku,リンク,rinku
+Kinematics,Kinematics,Pag-aaral ng Paggalaw,運動学 (うんどうがく),undougaku,運動学 (うんどうがく),undougaku
+Forward Kinematics,Forward Kinematics,Pagsulong na Kinematics,順運動学 (じゅんうんどうがく),jun'undougaku,順運動学 (じゅんうんどうがく),jun'undougaku
+Inverse Kinematics,Inverse Kinematics, Baliktad na Kinematics,逆運動学 (ぎゃくうんどうがく),gyaku'undougaku,逆運動学 (ぎゃくうんどうがく),gyaku'undougaku
+D-H Parameters,D-H Parameters, Mga Parametro ng D-H,D-Hパラメータ,D-H paramēta,D-Hパラメータ,D-H paramēta
+Homogeneous Matrix,Homogeneous Matrix,Homogenous na Matrix,均質マトリックス (きんしつマトリックス ),kinshitsu matorikkusu,同次変換行列 (どうじへんかんぎょうれつ,douji henkan gyōretsu
+End-effector,End-effector,Dulo ng Robot,エンドエフェクタ,endo efekuta,手先効果器 (てさきこうかき),tesaki koukaki
+Simulation,Simulation,Pag-e-simulate,シミュレーション,shimyurēshon,模擬実験 (もぎじっけん),mogi jikken
+CAD,CAD,CAD,キャド ,kyado,キャド ,kyado
+SolidWorks,SolidWorks,SolidWorks,ソリッドワークス,soriddowākusu,ソリッドワークス,soriddowākusu
+CoppeliaSim,CoppeliaSim,CoppeliaSim,コッペリアシム,kopperiashimu,コッペリアシム,kopperiashimu
+Joint Angle,Joint Angle,Anggulo ng Dugtungan,関節角度 (かんせつかくど),kansetsu kakudo,ジョイント角度 (ジョイントかくど),jointo kakud
+Velocity,Velocity,Bilis ,速度 (そくど),sokudo,速度 (そくど),sokudo
+Torque,Torque,Pwersa para umikot,トルク,toruku,トルク,toruku
+Servo Motor,Servo Motor,Motor na servo,サーボモータ,sābo mōta,サーボモータ,sābo mōta
+Linear Motion,Linear Motion,Tuwid na Paggalaw,リニアモーション,rinia mōshon,直線運動 (ちょくせんうんどう),chokusen undou
+Rotary Motion,Rotary Motion,Pa-ikot na Paggalaw,ロータリーモーション,rōtarī mōshon,回転運動 (かいてんうんどう),kaiten undou
+Target Point,Target Point,Pinupuntirya ,ターゲットポイント,tāgetto pointo,目標点 (もくひょうてん),mokuhyōten
+Degree of Freedom,Degree of Freedom,kalayaan ng paggalaw,自由度 (じゆうど),jiyūdo,自由度 (じゆうど),jiyūdo
+Toolbox,Toolbox,Kahon ng Kagamitan,ツールボックス,tsūrubokkusu,ツールボックス,tsūrubokkusu
+Robot Manipulator,Robot Manipulator,Robot Arm,ロボットマニピュレータ,robotto manipyurēta,ロボットアーム,robotto āmu
+Base,Base,Pundasyon,ベース,bēsu,きぶ,kibu
+Frame,Frame,Sistema ng Koordinasyon,フレーム ,furēmu,座標系 (ざひょうけい),zahyōkei
+Transformation Matrix,Transformation Matrix,Matrix ng Pagbabago,トランスフォーメーションマトリックス,toransufōmēshon matorikkusu,変換行列 (へんかんぎょうれつ),henkan gyōretsu
+Simulation Output,Simulation Output,Resulta ng Simulation,シミュレーション出力 (シミュレーションしゅつりょく),shimyurēshon shutsuryoku,シミュレーション出力 (シミュレーションしゅつりょく),shimyurēshon shutsuryoku
+Evaluation,Evaluation,Pagsusuri ,評価 (ひょうか),hyōka,評価 (ひょうか),hyōka
+Trajectory,Trajectory,Landas (path),軌道 (きどう),kidō,軌跡 (きせき),kiseki
+Accuracy,Accuracy,Katumpakan ,精度 (せいど),seido,精度 (せいど),seido
+Robotics,Robotics,Robotika,ロボティクス,robotikusu,ロボット工学 (ロボットこうがく),robotto kougaku
